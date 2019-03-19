@@ -9,6 +9,7 @@ tag:
 - music video
 - keyakizaka46
 - darling in the franxx
+feature: https://redmoonthink.files.wordpress.com/2017/07/000009009.jpg
 comments: true
 ---
 
