@@ -22,10 +22,18 @@ Thank you for reading.
 
 <center><b>AnimeStyle Talk Event, July 1st</b></center>
 
-<b>>Let's talk about Yutaka Nakamura</b>
+<b>Let's talk about Yutaka Nakamura</b>
 
 <font color="#87CEFA"><b>Inoue:</b></font> Nakamura-san's animation is really good, just by watching his animation really lifts up my mood. His _sakuga MADs_ are always overflowing with such pleasure.  
 
 <font color="#87CEFA"><b>Inoue:</b></font> His animation in Sword of the Stranger always brings so much joy to me, it's a must-see scene for animators or people who are aiming to be animator. 
+
+<font color="#87CEFA"><b>Oguro:</b></font> Nakamura always reads the air, doesn't he?  He's surely like to play around with the storyboards but he still does it at the scope where it is allowed.
+
+<font color=""><b>Note: Nakamura animated the climax battle in Sword of Stranger</b></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ukQnsxUs1Fw" frameborder="0"> </iframe>
+
+
 
 
