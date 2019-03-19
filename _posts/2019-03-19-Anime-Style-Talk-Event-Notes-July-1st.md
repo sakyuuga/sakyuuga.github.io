@@ -16,7 +16,7 @@ comments: true
 
 Please note that I'm not a professional translator, Japanese and English aren't my first language, so it might contain some translation errors. I <i>did</i> re-arrange the original notes to make it easier to read, I also added some additional infos for the reader to better understand the context. 
 
-I knew this is a crappy translation, the grammar might felt awkward and I added a lot of my own interpretations from the original notes (they were a series of tweet, which summarized what have been said in this event). 
+I know this is a crappy translation, the grammar might felt awkward and I added a lot of my own interpretations from the original notes (they were a series of tweet, which summarized what have been said in this event). 
 
 Thank you for reading. 
 
@@ -24,5 +24,8 @@ Thank you for reading.
 
 <b>>Let's talk about Yutaka Nakamura</b>
 
-<font color="blue"><b>Inoue:</b></font> Nakamura-san's animation is really good, just by watching his animation really lifts up my mood. His _sakuga MADs_ are always overflowing with such pleasure. 
+<font color="#87CEFA"><b>Inoue:</b></font> Nakamura-san's animation is really good, just by watching his animation really lifts up my mood. His _sakuga MADs_ are always overflowing with such pleasure.  
+
+<font color="#87CEFA"><b>Inoue:</b></font> His animation in Sword of the Stranger always brings so much joy to me, it's a must-see scene for animators or people who are aiming to be animator. 
+
 
