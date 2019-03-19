@@ -16,10 +16,13 @@ comments: true
 
 Please note that I'm not a professional translator, Japanese and English aren't my first language, so it might contain some translation errors. I <i>did</i> re-arrange the original notes to make it easier to read, I also added some additional infos for the reader to better understand the context. 
 
-I knew this is a crappy translation, the grammar might felt awkward and I added a lot of my own interpretations from the origina; notes (they were a series of tweet, which summarized what have been said in this event). 
+I knew this is a crappy translation, the grammar might felt awkward and I added a lot of my own interpretations from the original notes (they were a series of tweet, which summarized what have been said in this event). 
 
 Thank you for reading. 
 
 <center><b>AnimeStyle Talk Event, July 1st</b></center>
 
+<b>>Let's talk about Yutaka Nakamura</b>
+
+<font color="blue"><b>Inoue:</b></font> Nakamura-san's animation is really good, just by watching his animation really lifts up my mood. His _sakuga MADs_ are always overflowing with such pleasure. 
 
