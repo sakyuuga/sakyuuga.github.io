@@ -34,6 +34,8 @@ Thank you for reading.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ukQnsxUs1Fw" frameborder="0"> </iframe>
 
+
+
 <font color="#87CEFA"><b>Inoue:</b></font> "Speaking of Nakamura-san, I noticed that in his <a href="https://www.sakugabooru.com/post?tags=yutaka_nakamura+character_acting+">character acting animation</a>, even a simple movement looks so amazing. I'm confidence that my skill isn't inferior compared to him, but I have to admit that his creative power (the animation in his action) is outstanding. He possesses such an amazing skill and enthusiasm when drawing, that's what makes him amazing. 
 
 
