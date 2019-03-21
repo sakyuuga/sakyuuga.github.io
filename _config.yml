@@ -62,12 +62,29 @@ github-url:         sakyuuga
 #xmpp:              username@server.com
 #hackernews:        username
 
+####################
+# Patreon Settings #
+####################
+
+patreon:
+    enabled: true
+    design: 'default' # Supports the following desings: default, fancy, minimal, streamlined, reversed, swapped
+    title: 'Become a patron'
+    metercolor: 'orange' # Supports the following colors: red, green, orange, red nostripes, green nostripes, orange nostripes, blue nostripes
+    toptext: 'Example top text' # Text that appears in before the progress bar (optional)
+    bottomtext: 'Example bottom text' # Text that appears in after the progress bar (optional)
+    showgoaltext: true # Display the goal text?
+    showbutton: true # Display the "Become a patron" button?
+    username: 'kyuudere'
+    default_lang: "en" # The default language to use (to avoid writing twice the same text from Patreon)
+
 # Gems
 gems:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-patreon
 
 jekyll-mentions:
     base_url: https://github.com
