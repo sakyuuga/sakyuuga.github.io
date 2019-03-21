@@ -22,5 +22,4 @@ And then let's take a look at Kazuma Tsurumaki's takes on "Getsuyoubi no Asa". I
 
 Thank you very much! 
 
-{% patreon %}
 
