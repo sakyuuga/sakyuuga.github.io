@@ -20,3 +20,7 @@ And then let's take a look at Kazuma Tsurumaki's takes on "Getsuyoubi no Asa". I
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PieK5u9pPIA" frameborder="0"> </iframe>
 
+Thank you very much! 
+
+
+
