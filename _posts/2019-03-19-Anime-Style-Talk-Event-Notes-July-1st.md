@@ -39,7 +39,3 @@ Thank you for reading.
 
 <font color="#87CEFA"><b>Honda:</b></font> I noticed that recently there's a sudden surge of young animators who want to achieve what Nakamura-san has been doing (jaw-dropping action) from the get-go. I think it's important to remind them that super animators like Nakamura-san also started from obscurity by doing simple character acting. There are many youngster who neglected this basic stage.  
 
-
-Thank you very much! 
-{% patreon %}
-
