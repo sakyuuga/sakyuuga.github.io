@@ -75,6 +75,7 @@ Thank you for reading.
  
 <font color="color:#7eb0e6;"><b>About Cream Lemon Part 4</b></font>
 
+
 <font color="#87CEFA"><b>Inoue:</b></font> After Ganmo, we became really close and then Kitakubo-san invited me to his Pop Chaser episode."
 
 <i>Note: Inoue drew the H scene in the first half. [NSFW Warning]</i>
