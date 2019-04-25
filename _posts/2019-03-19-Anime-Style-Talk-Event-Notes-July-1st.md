@@ -11,7 +11,7 @@ tag:
 - animestyle talk event
 - translation
 comments: true
-vimeoID: https://player.vimeo.com/video/247650360
+vimeoID:17079380
 ---
 <b>Foreword</b>
 
