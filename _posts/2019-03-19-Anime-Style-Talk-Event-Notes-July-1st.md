@@ -73,8 +73,7 @@ Thank you for reading.
 
 <i>Note</i>: during the production of Urusei Yatsura, Kitakubo also did some KA for 'Stop!! Hibari-kun!' episode 9 and 15, which had Umetsu as animation supervisor and key animator in those episodes.
  
-<font color="color:#7eb0e6;"><b>About Cream Lemon Part 4</b></font>
-
+<font color="color:#7eb0e6;"><b>About Cream Lemon Part 4</b></font><br/>
 
 <font color="#87CEFA"><b>Inoue:</b></font> After Ganmo, we became really close and then Kitakubo-san invited me to his Pop Chaser episode."
 
