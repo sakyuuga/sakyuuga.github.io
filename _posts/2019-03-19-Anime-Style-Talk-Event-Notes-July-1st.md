@@ -22,6 +22,7 @@ Thank you for reading.
 
 <center><b>AnimeStyle Talk Event, July 1st</b></center>
 
+
 <font color="color:#7eb0e6;"><b>Let's talk about Yutaka Nakamura</b></font><br/>
 
 
@@ -60,7 +61,7 @@ Thank you for reading.
 <font color="#87CEFA"><b>Inoue:</b></font>  At the time I received a strong influence from Takashi Nakamura-san. The way he draws body's form and limbs is just so cool, and I hadn't seen something like that before.
 <font color="#87CEFA"><b>Inoue:</b></font>  Speaking of Takashi Nakamura-san, rather than AKIRA I always liked his Gold Lightan and Urashiman better after all. His solo episode on Gold Lightan episode 41 (<i>大魔神の涙</i>) was really good. Although there were many production restrictions (to save money) during his solo episodes, like several cuts weren't used in photography process.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PI_JOqRO1VE" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PI_JOqRO1VE" frameborder="0"> </iframe>
 <br/>
 
 <font color="#87CEFA"><b>Honda:</b></font>  I have to confess that actually I've never watched that episode before.
@@ -81,7 +82,7 @@ Thank you for reading.
 <font color="#87CEFA"><b>Inoue:</b></font> After Ganmo, we became really close and then Kitakubo-san invited me to his Pop Chaser episode."
 <i>Note: Inoue drew the H scene in the first half. [NSFW Warning]</i>
 
-<iframe width="560" height="315" src="https://vimeo.com/247650360" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://vimeo.com/embed/247650360" frameborder="0"> </iframe>
 <br/>
 
 <i>Cream Lemon Part 4: POP♥CHASER was released on March 13, 1985. It was Hiroyuki Kitakubo's first directorial debut, just when he was still 21 years old. He was credited under pen name Dai Sakura, with him providing the scenario, storyboard, direction, animation supervision, and character design (along with Yuuji Moriyama). Kitakubo's personal connection was truly integral role for this OVA, they were brought from various places, and not to mention that all of them were using pen names. You can say they were the memers of their generation. </i>
