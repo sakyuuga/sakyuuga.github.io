@@ -23,6 +23,7 @@ Thank you for reading.
 <center><b>AnimeStyle Talk Event, July 1st</b></center>
 
 <font color="color:#7eb0e6;"><b>Let's talk about Yutaka Nakamura</b></font>
+<br/>
 
 <font color="#87CEFA"><b>Inoue:</b></font> Nakamura-san's animation is really good, just by watching his animation really lifts up my mood. His _sakuga MADs_ are always overflowing with such pleasure.  
 
@@ -40,18 +41,20 @@ Thank you for reading.
 <font color="#87CEFA"><b>Honda:</b></font> I noticed that recently there's a sudden surge of young animators who want to achieve what Nakamura-san has been doing (jaw-dropping action) from the get-go. I think it's important to remind them that super animators like Nakamura-san also started from obscurity by doing simple character acting. There are many youngster who neglected this basic stage.  
 
 <font color="color:#7eb0e6;"><b>About Inoue's animation characteristic</b></font>
+<br/>
 
-<font color="#87CEFA"><b>Inoue:</b></font> I don't draw things that's so out of place, or you can say <i>strange</i>. I'm capable of drawing animation in such a way that I (and other people) desired.</p>
-<font color="#87CEFA"><b>Oguro:</b></font>  Well, that's a bit cool. Wait...isn't it too cool? To be able to meet the direction's demand and even exceeds their expectation. Also you don't need any correction, do you?</p>
+<font color="#87CEFA"><b>Inoue:</b></font> I don't draw things that's so out of place, or you can say <i>strange</i>. I'm capable of drawing animation in such a way that I (and other people) desired.
+<font color="#87CEFA"><b>Oguro:</b></font>  Well, that's a bit cool. Wait...isn't it too cool? To be able to meet the direction's demand and even exceeds their expectation. Also you don't need any correction, do you?
 <font color="#87CEFA"><b>Inoue:</b></font>  Well, you can say that to be able to meet the direction's demand is also my aesthetic sense. Also, during the production of Ghost in the Shell, people at I.G said "look, only Inoue-san's <i>genga</i> that aren't corrected". 
 
 <font color="color:#7eb0e6;"><b>Gu Gu Ganmo, one of Inoue's earliest work and where did his inspiration come from</b></font>
+<br/>
 
-<font color="#87CEFA"><b>Oguro:</b></font> "You really did well on Ganmo, not only your animation was able to meet production's demand, you also played with the movement and delivered cool action too."</p>
-<font color="#87CEFA"><b>Inoue:</b></font>  "I wasn't particularly thinking about direction nor the audience at the time, I just was doing whatever I wanted. It was the era where animators' characteristic were displayed directly through what they draw. They didn't draw with such a mind like 'what if it will be checked by other people (animation supervisors)'. For example in Urusei Yatsura, there were several people who followed in Yoshinori Kanada-san's footsteps and their animation really stood out."</p>
-<font color="#87CEFA"><b>Honda:</b></font>  "I decided to enter animation industry after I saw Ganmo. Inoue-san's <a href="https://www.sakugabooru.com/post?tags=gu_gu_ganmo+toshiyuki_inoue+">animation</a> were just different from other people's drawings and easy to spot."</p>
+<font color="#87CEFA"><b>Oguro:</b></font> "You really did well on Ganmo, not only your animation was able to meet production's demand, you also played with the movement and delivered cool action too."
+<font color="#87CEFA"><b>Inoue:</b></font>  "I wasn't particularly thinking about direction nor the audience at the time, I just was doing whatever I wanted. It was the era where animators' characteristic were displayed directly through what they draw. They didn't draw with such a mind like 'what if it will be checked by other people (animation supervisors)'. For example in Urusei Yatsura, there were several people who followed in Yoshinori Kanada-san's footsteps and their animation really stood out."
+<font color="#87CEFA"><b>Honda:</b></font>  "I decided to enter animation industry after I saw Ganmo. Inoue-san's <a href="https://www.sakugabooru.com/post?tags=gu_gu_ganmo+toshiyuki_inoue+">animation</a> were just different from other people's drawings and easy to spot."
 
- <i>Inoue's part in episode 7, roller coast scene.</i>
+<i><b>Inoue's part in episode 7, roller coast scene.</b></i>
 
 <font color="#87CEFA"><b>Oguro:</b></font>  That scene was really impressive.
 <font color="#87CEFA"><b>Inoue:</b></font>  At the time I received a strong influence from Takashi Nakamura-san. The way he draws body's form and limbs is just so cool, and I hadn't seen something like that before.
@@ -65,11 +68,14 @@ Thank you for reading.
 
 
 <font color="color:#7eb0e6;"><b>From Ganmo to friendship with Hiroyuki Kitakubo</b></font>
+<br/>
 
-<font color="#87CEFA"><b>Inoue:</b></font>  After the broadcast of Ganmo's first episode, I was asked directly by <a href="https://www18.atwiki.jp/sakuga/pages/816.html">Hiroyuki Kitakubo</a>-san to show me the <i>genga </i>for <a href="https://www.sakugabooru.com/post/show/21369">my scene.</a> Since then we stayed in touch with each other and I got the chance to see many <i>genga</i>from another studio's (and freelance) animators, such as in Urusei Yatsura. Actually I traded my Ganmo <i>genga</i> with Kitakubo's collection, it was <a href="https://www18.atwiki.jp/sakuga/pages/55.html">Yasuomi Umetsu</a>-san's 'Stop!! Hibari-kun!' <i>genga</i>.</p>
- <i>Note</i>: during the production of Urusei Yatsura, Kitakubo also did some KA for 'Stop!! Hibari-kun!' episode 9 and 15, which had Umetsu as animation supervisor and key animator in those episodes.</p>
+<font color="#87CEFA"><b>Inoue:</b></font>  After the broadcast of Ganmo's first episode, I was asked directly by <a href="https://www18.atwiki.jp/sakuga/pages/816.html">Hiroyuki Kitakubo</a>-san to show me the <i>genga </i>for <a href="https://www.sakugabooru.com/post/show/21369">my scene.</a> Since then we stayed in touch with each other and I got the chance to see many <i>genga</i>from another studio's (and freelance) animators, such as in Urusei Yatsura. Actually I traded my Ganmo <i>genga</i> with Kitakubo's collection, it was <a href="https://www18.atwiki.jp/sakuga/pages/55.html">Yasuomi Umetsu</a>-san's 'Stop!! Hibari-kun!' <i>genga</i>.
+
+<i>Note</i>: during the production of Urusei Yatsura, Kitakubo also did some KA for 'Stop!! Hibari-kun!' episode 9 and 15, which had Umetsu as animation supervisor and key animator in those episodes.
  
 <font color="color:#7eb0e6;"><b>About Cream Lemon Part 4</b></font>
+<br/>
 
 <font color="#87CEFA"><b>Inoue:</b></font> After Ganmo, we became really close and then Kitakubo-san invited me to his Pop Chaser episode."
 <i>Note: Inoue drew the H scene in the first half. [NSFW Warning]</i>
