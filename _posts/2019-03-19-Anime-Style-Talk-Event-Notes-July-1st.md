@@ -83,7 +83,7 @@ Thank you for reading.
 <font color="#87CEFA"><b>Inoue:</b></font> After Ganmo, we became really close and then Kitakubo-san invited me to his Pop Chaser episode."
 <i>Note: Inoue drew the H scene in the first half. [NSFW Warning]</i>
 
-{% include vimeoPlayer.html id=page.247650360 %}
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 <i>Cream Lemon Part 4: POP♥CHASER was released on March 13, 1985. It was Hiroyuki Kitakubo's first directorial debut, just when he was still 21 years old. He was credited under pen name Dai Sakura, with him providing the scenario, storyboard, direction, animation supervision, and character design (along with Yuuji Moriyama). Kitakubo's personal connection was truly integral role for this OVA, they were brought from various places, and not to mention that all of them were using pen names. You can say they were the memers of their generation. </i>
 
